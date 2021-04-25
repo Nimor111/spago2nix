@@ -21,8 +21,8 @@ in
       pkgs.fetchFromGitHub {
         owner = "justinwoo";
         repo = "easy-purescript-nix";
-        rev = "1ec689df0adf8e8ada7fcfcb513876307ea34226";
-        sha256 = "12hk2zbjkrq2i5fs6xb3x254lnhm9fzkcxph0a7ngxyzfykvf4hi";
+        rev = "e7075d13de7a31adc5762aca46650590d0e83a1f";
+        sha256 = "0vczcvzis83m394vnvk5z2s76s2r9w7w7xfisfrvm3lvxxf02gf8";
       }
     ) {
       inherit pkgs;
